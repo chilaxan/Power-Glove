@@ -1,0 +1,4 @@
+powerglove.chilaxan.tech {
+  encode gzip
+  reverse_proxy :1337
+}
